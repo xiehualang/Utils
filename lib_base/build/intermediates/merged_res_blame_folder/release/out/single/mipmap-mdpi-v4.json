@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "com.cultraview.commonlibrary.lib_base-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/mipmap-mdpi-v4/ic_launcher_round.png",
+        "source": "com.cultraview.commonlibrary.lib_base-main-5:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

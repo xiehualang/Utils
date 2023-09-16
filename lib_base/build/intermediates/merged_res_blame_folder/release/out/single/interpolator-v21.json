@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-material-1.5.0-28:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-material-1.5.0-28:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-material-1.5.0-28:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]

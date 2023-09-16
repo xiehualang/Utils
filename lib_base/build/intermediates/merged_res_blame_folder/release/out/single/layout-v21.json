@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-core-1.7.0-8:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-core-1.7.0-8:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-core-1.7.0-8:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/layout-v21/notification_action.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-core-1.7.0-8:/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-material-1.5.0-28:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.cultraview.commonlibrary.lib_base-merged_res-4:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.cultraview.commonlibrary.lib_base-material-1.5.0-28:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]
