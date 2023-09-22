@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_one">#60DCDCDC</color>
+    <color name="white_two">#B06A6A6A</color>
+    <color name="white_three">#434343</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="top_radio_color">#2B3942</color>
+    <color name="top_stroke_color">#30000000</color>
+    <color name="dialog_blue">#2477D6</color>
 </resources>
