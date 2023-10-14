@@ -5,5 +5,6 @@
     <string name="ios_dialog_cancel">取消</string>
     <string name="ios_dialog_confirm">确认</string>
     <string name="ios_dialog_tip_one">确认</string>
-    <string name="ios_dialog_tip_two">确认</string>
+    <string name="ios_dialog_tip_two">取消</string>
+    <string name="ios_button">ios Button</string>
 </resources>

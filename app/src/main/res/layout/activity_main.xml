@@ -9,8 +9,10 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/dialog_button"
+        android:layout_marginTop="@dimen/dp_50"
         android:layout_width="100dp"
         android:layout_height="40dp"
+        android:text="@string/ios_button"
         android:layout_gravity="center_horizontal"/>
 
 </LinearLayout>
