@@ -2,10 +2,13 @@ package com.ctv.utils.dialog
 
 import android.app.Dialog
 import android.content.Context
-import android.widget.TextView
+import android.graphics.Color
+import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
 import android.view.View
+import android.widget.TextView
 import com.ctv.utils.R
+
 
 class IosDialog(
     context: Context?,
@@ -33,6 +36,7 @@ class IosDialog(
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.ios_dialog)
+        this.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
         initViews()
     }
 
